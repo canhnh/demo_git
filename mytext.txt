@@ -1,3 +1,4 @@
 Den con khi cung hieu duoc lenh Git
 add: Dang ky thanh doi trong index 1234
 commit: Luu lai trang thai cua index
+pull: Lay noi dung cua remote repository
